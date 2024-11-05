@@ -29,7 +29,6 @@ func main() {
 			"Będziesz musiał podjąć trudną decyzję, ale to dla Ciebie dobra okazja.",
 		},
 	}
-
 	// Zadajemy pytanie i losujemy wróżbę
 	fmt.Println("Zapytaj wróżbitę o przyszłość!")
 	fortune := fortuneTeller.TellFortune()
